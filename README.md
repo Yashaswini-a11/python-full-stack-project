@@ -117,7 +117,7 @@ CREATE TABLE trip_stops (
 2. Add your supabase credentials to `.env`:
 
 SUPABASE_URL="https://bxqkfhkynukbczpzpmnr.supabase.co"
-SUPABASE_KEY="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJ4cWtmaGt5bnVrYmN6cHpwbW5yIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTgwODI1MTYsImV4cCI6MjA3MzY1ODUxNn0nCAGWlSSj5Fjfw29Ea482QPi-5RRXp0ATeF0mNqAE2M"
+SUPABASE_KEY="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJ4cWtmaGt5bnVrYmN6cHpwbW5yIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTgwODI1MTYsImV4cCI6MjA3MzY1ODUxNn0.nCAGWlSSj5Fjfw29Ea482QPi-5RRXp0ATeF0mNqAE2M"
 
 ### 5. Run the Application
 
